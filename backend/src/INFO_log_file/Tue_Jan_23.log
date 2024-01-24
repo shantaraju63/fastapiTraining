@@ -1,0 +1,12 @@
+2024-01-23 14:32:41,246 - INFO - --> create_movie(m:Movie)
+2024-01-23 14:32:54,591 - ERROR - fields are reqired
+2024-01-23 15:22:12,167 - INFO - --> create_movie(m:Movie)
+2024-01-23 15:22:51,756 - INFO - --> create_movie(m:Movie)
+2024-01-23 15:28:18,891 - INFO - --> create_movie(m:Movie)
+2024-01-23 15:29:13,258 - INFO - --> create_movie(m:Movie)
+2024-01-23 15:29:53,991 - INFO - --> create_movie(m:Movie)
+2024-01-23 16:42:47,234 - INFO - --> create_movie(m:Movie)
+2024-01-23 17:00:03,444 - INFO - --> create_movie(m:Movie)
+2024-01-23 17:01:25,095 - INFO - --> create_movie(m:Movie)
+2024-01-23 17:04:08,028 - INFO - --> create_movie(m:Movie)
+2024-01-23 17:08:02,860 - INFO - --> create_movie(m:Movie)

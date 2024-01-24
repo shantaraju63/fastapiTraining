@@ -1,0 +1,62 @@
+{
+    "j9y7": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T10:44:59.208000Z",
+        "seat": [
+            {
+                "seat_no": "123",
+                "status": "avilble"
+            }
+        ],
+        "duration": 0,
+        "id": "j9y7",
+        "dayes_after": 18,
+        "relesedate": "2024-01-01T09:51:15.461Z"
+    },
+    "252": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T10:44:59.208000Z",
+        "seat": [
+            {
+                "seat_no": "1234",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "252",
+        "dayes_after": 18,
+        "relesedate": "2024-01-01T09:51:15.461Z"
+    },
+    "v5Bno": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T10:44:59.208000Z",
+        "seat": [
+            {
+                "seat_no": "156",
+                "status": "avilbale"
+            }
+        ],
+        "duration": 0,
+        "id": "v5Bno",
+        "dayes_after": 18,
+        "relesedate": "2024-01-01T09:51:15.461Z"
+    },
+    "uXBSQ": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-23T11:38:01.550000Z",
+        "seat": [
+            {
+                "seat_no": "string",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "uXBSQ",
+        "dayes_after": 22,
+        "relesedate": "2024-01-01T09:51:15.461Z"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "MJRv": {
+        "set_no": "124",
+        "name": "raj",
+        "email": "raj@example.com",
+        "payment_method": "upi",
+        "price": 0,
+        "id": "MJRv",
+        "p_status": "string"
+    },
+    "xszy5": {
+        "set_no": "12345",
+        "name": "string",
+        "email": "user@example.com",
+        "payment_method": "upi",
+        "price": 300,
+        "id": "xszy5",
+        "p_status": "booked"
+    }
+}
