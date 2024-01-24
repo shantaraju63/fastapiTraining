@@ -33,6 +33,8 @@ def create_movie(m:Movie):
     info['relesedate']=l
     create_json(id,info,path)
     info_log()
+    '''hi'''
+    return "hi"
     return info
     
 
